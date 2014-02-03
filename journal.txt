@@ -1,8 +1,8 @@
 Title:The best paper ever about beer!
-Authors: Eleanor Cottam,John Smith, Gracie Logan
+Authors: Eleanor Cottam, John Smith, Gracie Logan
 
-Introduction:some introductions are good
-Data:data may appear one day who knows?
+Introduction:I John Smith Bitter better?
+Data:data will be created by many trips to the pub.. 
 
-Analysis:
+Analysis: to be done by an external bioinformatics consultant
 Conclusion: I think this might get a Nobel prize.

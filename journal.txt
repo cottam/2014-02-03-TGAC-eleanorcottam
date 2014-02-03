@@ -1,5 +1,5 @@
 Title:The best paper ever about beer!
-Authors: Eleanor Cottam, Gracie Logan
+Authors: Eleanor Cottam,John Smith, Gracie Logan
 
 Introduction:some introductions are good
 Data:data may appear one day who knows?

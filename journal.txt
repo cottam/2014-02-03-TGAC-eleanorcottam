@@ -1,8 +1,8 @@
-Title:The best paper ever!
-Authors: Eleanor Cottam
+Title:The best paper ever about proteins
+Authors:John Smith,  Eleanor Cottam
 
 Introduction:some introductions are good
 Data:no data as yet, waiting for somthing to work.
 
-Analysis:
+Analysis: [Note John still has to do the analysis]
 Conclusion: I think this might get a Noble prize.

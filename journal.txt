@@ -1,7 +1,8 @@
-Title:
-Authors:
+Title:The best paper ever!
+Authors: Eleanor Cottam
 
-Introduction:
-Data:
+Introduction:some introductions are good
+Data:no data as yet, waiting for somthing to work.
+
 Analysis:
 Conclusion:

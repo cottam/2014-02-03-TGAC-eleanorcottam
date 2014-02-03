@@ -1,8 +1,8 @@
-Title:The best paper ever!
-Authors: Eleanor Cottam
+Title:The best paper ever about beer!
+Authors: Eleanor Cottam, Gracie Logan
 
 Introduction:some introductions are good
-Data:no data as yet, waiting for somthing to work.
+Data:data may appear one day who knows?
 
 Analysis:
-Conclusion: I think this might get a Noble prize.
+Conclusion: I think this might get a Nobel prize.
